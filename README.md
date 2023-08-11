@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey, I am a junior frontend developer and  software engineering student at KOIT<br><br>🔭 I’m currently working on developing my JS skill <br>🌱 I’m currently learning JS, React,Node.js<br>
+Hey 👋, I am a junior frontend developer and  software engineering student at KOIT<br><br>🔭 I’m currently working on developing my JS skill <br>🌱 I’m currently learning JS, React,Node.js<br>
 
 
 ## 🌐 Socials:
