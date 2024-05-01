@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey 👋, I am a junior frontend developer and software engineering student at KOIT<br><br>🔭 I’m currently working on developing my REACT skill <br>🌱 I’m currently learning React,Node.js<br>🕸️ <a href="https://voidrak.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
+Hey 👋, I am a junior frontend developer and software engineering student at KOIT<br><br>🔭 I’m currently working on developing my REACT skill <br>🌱 I’m currently learning React,Node.js<br>🕸️ <a href= "https://rakportfoliov2.vercel.app/" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
 
 ## 🌐 Socials:
 
