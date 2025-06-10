@@ -4,7 +4,7 @@ Hey 👋, I am a   full-stack developer and software engineering student at KOIT
 
 
 
-#https://safeexambrowser.org/start
+# [https://safeexambrowser.org/start](https://exam6.ethernet.edu.et)
 
 ## 🌐 Socials:
 
