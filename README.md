@@ -2,6 +2,10 @@
 
 Hey 👋, I am a   full-stack developer and software engineering student at KOIT<br><br>🔭 I’m currently working on with Laravel and Vue <br>🌱I have experience  with react , tailwind <br>🕸️ <a href= "https://nahomdev.me" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
 
+
+
+#https://safeexambrowser.org/start
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahomrak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/voidrak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/voidrak)   
