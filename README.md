@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey 👋, I am a   full-stack developer and software engineering student at KOIT<br><br>🔭 I’m currently working on with Laravel and Vue <br>🌱I have experience  with react , tailwind <br>🕸️ <a href= "https://nahomdev.me" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
+Hey 👋, I am a   full-stack developer  at  qelemmeda technology <br><br>🔭 I’m currently working on with Laravel and Vue <br>🌱I have experience  with react , tailwind <br>🕸️ <a href= "https://nahomdev.me" target="_blank" rel="noopener noreferrer">My Portfolio</a> <br>
 
 
 
